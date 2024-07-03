@@ -24,4 +24,3 @@ The Air Canvas System is an innovative project that allows users to draw in the 
 ## Acknowledgements
 
 - Thanks to the OpenCV and Numpy communities for their amazing libraries.
-- Special thanks to the Mediapipe team for providing robust hand tracking solutions.
